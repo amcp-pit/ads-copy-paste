@@ -1,0 +1,1 @@
+# ads-copy-paste
