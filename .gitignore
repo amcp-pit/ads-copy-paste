@@ -28,7 +28,7 @@
 
 # Executables
 *.exe
-*.out
+a.out
 *.app
 
 # OSX hidden files
